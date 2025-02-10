@@ -1,1 +1,2 @@
-UserInterfaceState.xcuserstate
+# 忽略 Xcode 用户界面状态文件
+*.xcuserstate
